@@ -1,2 +1,2 @@
-This is another simple text file to play with in github.
+sample.txt - file
 
